@@ -1,0 +1,37 @@
+ 
+@font-face {
+    font-family: Broya;
+    src: url('../../fonts/Broya/BRoya.woff');
+    src: url('../../fonts/Broya/BRoya.woff') format('woff'), url('../../fonts/Broya/BRoya.ttf') format('truetype');
+} 
+  
+@font-face {
+    font-family: BroyaBold;
+    src: url('../../fonts/Broya/BRoyaBold.woff');
+    src: url('../../fonts/Broya/BRoyaBold.woff') format('woff'), url('../../fonts/Broya/BRoyaBold.ttf') format('truetype');
+} 
+
+body {
+    font-family: Broya ;
+    font-weight: normal; 
+    color: rgba(0, 0, 0, 0.8);
+    direction: rtl;
+}
+* {font-family: Broya} 
+.bold{
+    font-family: BroyaBold!important;
+} 
+   
+@media (min-width: 768px)  {  
+}
+@media (max-width: 768px)  {  
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+}
+
+@media (min-width: 991.98px) { 
+}
+
+@media (min-width: 1280px) { 
+}

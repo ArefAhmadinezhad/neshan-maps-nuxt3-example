@@ -11,10 +11,10 @@
 
 ## About Project
 
-neshan-maps-nuxt3-example
+neshan maps with mapbox-gl nuxt3 example 
 
 
-##    <a href="https://t.me/aref_dev">Demo</a> 
+##    <a href="https://aref.myworktest.ir">Demo</a> 
 
 ## Installation
 
